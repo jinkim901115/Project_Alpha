@@ -12,6 +12,8 @@
 	</header>
 	<article>본문 입니다
 	</article>
+		<section>기사1</section>
+		<section>기사2</section>
 	<footer>푸터입니다
 	</footer>
 </body>
